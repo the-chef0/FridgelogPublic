@@ -1,0 +1,14 @@
+linked list justification:
+
+Don't know memory requirements beforehand
+O(1) prepend time and easy prepend when adding items
+O(1) add time if we decide to quickly add into sorted linkedlist?
+Easy deletion with O(n) worst case complexity
+Random access is O(n) in worst case but will have to traverse the whole list when printing it out anyway
+Random access in O(n) is not tragic anyway because we can expect a relatively low number of items
+Sort in O(n log(n))
+
+external libraries used:
+zxing barcode scanner
+jsoup
+jdbc
